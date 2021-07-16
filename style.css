@@ -1,0 +1,58 @@
+body {
+    background-color: whitesmoke;
+    margin-left: 10px;
+    background-image: url(images/Light\ Pastel\ Orange\ and\ Ginger\ General\ Death\ Facebook\ Post.png);
+}
+
+h1 {
+    text-align: center;
+    background-color: #546BC7;
+    color: black;
+    margin-left: 360px;
+    margin-right: 360px;
+    border-radius: 200px;
+}
+
+#hed {
+    margin-top: 50px;
+}
+
+form {
+    text-align: center;
+    padding: 80px;
+}
+
+p {
+    /* background-color: goldenrod; */
+    color: black;
+    margin: 10px 10px 10px 10px;
+}
+
+.copy {
+    background-color: #546BC7;
+    color: black;
+}
+
+#pict {
+    text-align: center;
+    margin: 20px;
+}
+
+.heading1 {
+    display: block;
+}
+
+.heading2 {
+    /* background-color: grey; */
+    /* text-align: left; */
+    margin-left: 10px;
+    /* margin-right: 750px; */
+    /* border-radius: 200px; */
+    /* display: inline; */
+    position: relative;
+    font-size: 18px;
+}
+
+h4 {
+    margin: 10px;
+}
